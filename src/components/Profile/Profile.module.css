@@ -1,0 +1,29 @@
+.header{
+    background-image: linear-gradient(rgb(28, 31, 37,5), rgba(0,0,0,0.01)), url('../../../public/assets/images/background2.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 250px;
+    font-family: "Source Sans Pro",Arial,sans-serif;
+}
+.rounded{
+    border-radius: 50% !important;
+}
+.image_profile{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    margin-top: 70px;
+    border: 1px solid black;
+}
+.user_name{
+    margin-left: 200px;
+    color: rgb(61, 61, 61);
+    font-weight: bold;
+}
+.my_list{
+    margin-top: 130px;
+}
+.masg{
+    color: rgb(37, 40, 48);
+}

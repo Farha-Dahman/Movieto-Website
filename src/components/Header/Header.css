@@ -1,0 +1,13 @@
+.header{
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../../../public/assets/images/background2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background-content {
+    position: relative;
+    top: 56px; 
+    margin-bottom: 80px;
+}
+.rounded{
+    border-radius: 30px !important;
+}

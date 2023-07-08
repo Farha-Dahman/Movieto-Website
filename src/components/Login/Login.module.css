@@ -1,0 +1,8 @@
+.forgetPss {
+    text-decoration: none;
+    color: #e22a71;
+    font-size: smaller;
+}
+.forgetPss:hover{
+    color: black;
+}

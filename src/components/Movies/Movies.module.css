@@ -1,0 +1,24 @@
+.height_MovieProviders{
+    height: 360px;
+}
+.margin{
+    margin-top: 90px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.movieImage{
+    height: 450px;
+    width: 270px;
+}
+.companyImage{
+    height: 150px;
+    background-size: contain;
+}
+.SliderContainer{
+    height: 300px;
+}
+.movie{
+    height: 530px;
+}

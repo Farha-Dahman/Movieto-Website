@@ -1,0 +1,13 @@
+.image_holder {
+    width: 100%;
+    height: 365px;
+    background-color: #dbdbdb;
+    background-size: 50%;
+    box-sizing: border-box;
+}
+.height{
+    height: 495px
+}
+.popularity_style{
+    color: #e22a71;
+}
