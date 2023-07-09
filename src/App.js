@@ -62,9 +62,10 @@ function App() {
 
   return (
     <>
-      {/* <Offline>
+      <Offline>
         <OfflinePage /> 
-      </Offline> */}
+      </Offline>
+      <Online>
       <GetFavoriteMovieFunc>
         <GetUserFunc>
             <SearchProvider>
@@ -73,6 +74,7 @@ function App() {
             </SearchProvider>
         </GetUserFunc>
         </GetFavoriteMovieFunc>
+        </Online>
     </>
 
   )
