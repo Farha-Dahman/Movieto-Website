@@ -1,3 +1,11 @@
+# Movieto Website
+Introducing our Movieto website! Discover a captivating cinematic experience right at your fingertips. Our carefully curated collection of movies caters to all genres, ensuring there's something for every movie enthusiast and TV shows. Easily navigate through our user-friendly interface to explore an extensive library of films, complete with detailed descriptions to help you make the perfect choice. Whether you're seeking the latest movies or TV shows, our movie website provides a seamless platform to indulge in the world of cinema. Welcome to our Movieto website, where your movie-watching journey begins!
+
+#### The API from:
+https://www.themoviedb.org/
+
+----
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
